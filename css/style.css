@@ -1,0 +1,26 @@
+.carousel-img{
+    width: 100%;
+    height: 700px;      /* todas ficam com a mesma altura */
+    object-fit: cover;  /* corta a imagem sem deformar */
+}
+
+.img-servico{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-img-box{
+    position: relative;
+}
+
+.img-texto{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+}
