@@ -24,3 +24,11 @@
     padding: 8px;
     font-weight: bold;
 }
+
+    .header {
+      background-color: #dcdcdc;
+      padding: 40px;
+      text-align: center;
+      font-size: 40px;
+      font-weight: bold;
+    }
